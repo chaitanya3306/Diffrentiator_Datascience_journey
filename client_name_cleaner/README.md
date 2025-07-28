@@ -1,17 +1,29 @@
-# Diffrentiator Data Science Journey 🚀
+# Client Name Cleaner Tool
 
-This repository tracks my Data Science learning journey, projects, and resources.  
-Focus areas:  
-- 📊 **Data Apps & Dashboards**  
-- 🌐 **APIs, Bots & Web Integration**  
+A beginner-friendly real-world mini project to **clean messy customer name data** using Python and Pandas. This is Week 1 of my journey to becoming a top-tier data scientist. 💼
 
 ---
 
-## 📅 Roadmap
-- **Week 1-4:** EDA projects (Matplotlib, Seaborn, Pandas, NumPy)  
-- **Week 5-8:** Data Apps & API-based projects  
-- **Week 9+:** AI/ML transition  
+## Problem Statement
+
+Companies often collect customer names through online forms or CRMs. These names are usually:
+- Written in **all caps** or **all lowercase**
+- Have **extra spaces**, symbols, or invalid entries like numbers
+- Sometimes **blank or missing**
+
+> Your job is to clean and standardize this raw data for analytics, dashboards, or database ingestion.
 
 ---
 
-## 📂 Folder Structure
+## What This Tool Does
+
+- Reads raw customer names from a CSV  
+- Removes blank or invalid names  
+- Strips extra spaces  
+- Converts names to Title Case  
+- Outputs a clean CSV for further use
+
+---
+
+## Project Structure
+
