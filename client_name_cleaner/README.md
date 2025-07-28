@@ -23,7 +23,4 @@ Companies often collect customer names through online forms or CRMs. These names
 - Converts names to Title Case  
 - Outputs a clean CSV for further use
 
----
-
-## Project Structure
 
