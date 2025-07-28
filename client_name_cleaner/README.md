@@ -23,4 +23,15 @@ Companies often collect customer names through online forms or CRMs. These names
 - Converts names to Title Case  
 - Outputs a clean CSV for further use
 
+## Learnings from this Project
+
+Writing modular functions
+
+Using list comprehensions and regex
+
+Filtering bad data
+
+Writing clean CSV output
+
+Practicing real-world data cleaning tasks
 
